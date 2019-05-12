@@ -1,0 +1,45 @@
+.col-2, .col-2-kaytetty {
+    max-width: 170px;
+    border: 1px solid;
+    border-color: #17a2b8 !important;
+    margin: 3px;
+    box-shadow: 5px 5px 5px #888;
+}
+
+.col-2-kaytetty {
+    background-color: lightskyblue;
+}
+
+p {
+    text-align: center; 
+    font-size: 1.5em;
+}
+
+h1 {
+    padding: 10px;
+}
+
+.row {
+    display: flex;
+    padding: 10px;
+}
+
+#maa-pohja {
+    -webkit-box-shadow: 0 8px 6px -6px #888;
+    margin: 3px;
+    box-shadow: -6px 0px 6px -6px #888;
+}
+
+.matkasuunnitelma {
+    background-color: lightgrey;
+    height: 30%;
+    max-width: 16.666667%;
+    border: 1px solid;
+    border-color: #17a2b8 !important;
+    margin: 3px;
+    box-shadow: 5px 5px 5px #888;
+}
+
+.sivusto {
+    display: flex;
+}
